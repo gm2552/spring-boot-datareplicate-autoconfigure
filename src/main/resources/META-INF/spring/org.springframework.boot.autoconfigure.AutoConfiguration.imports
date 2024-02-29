@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.r2dbc.R2dbcReplicatedAutoConfiguration
+org.springframework.boot.autoconfigure.r2dbc.R2dbcReplicatedTransactionManagerAutoConfiguration
+org.springframework.boot.autoconfigure.r2dbc.R2dbcReplicatedDataAutoConfiguration
